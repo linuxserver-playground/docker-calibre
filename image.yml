@@ -11,8 +11,9 @@ upstream:
     type: github_release
     repo: kovidgoyal/calibre
   notes:
-    type: github_release
-    repo: kovidgoyal/calibre
+    type: rss
+    url: https://calibre-ebook.com/changelog.rss
+    title: calibre ${VERSION}
 
 release:
   branch: master
