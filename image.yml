@@ -6,8 +6,8 @@ summary: calibre container image.
 
 upstream:
   version:
-    type: command
-    run: echo 4.23.0
+    type: static
+    version: 4.23.0
 
 release:
   branch: v4
