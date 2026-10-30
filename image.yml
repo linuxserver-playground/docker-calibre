@@ -10,6 +10,9 @@ upstream:
   version:
     type: github_release
     repo: kovidgoyal/calibre
+    require_assets:
+      - asset: '^calibre-.*-x86_64\.txz$'
+      - asset: '^calibre-.*-arm64\.txz$'
   notes:
     type: rss
     url: https://calibre-ebook.com/changelog.rss
