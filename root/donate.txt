@@ -1,0 +1,3 @@
+calibre: https://calibre-ebook.com/donate
+calibre (GitHub Sponsors): https://github.com/sponsors/kovidgoyal
+calibre (Patreon): https://www.patreon.com/kovidgoyal
