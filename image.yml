@@ -17,6 +17,13 @@ upstream:
     type: rss
     url: https://calibre-ebook.com/changelog.rss
     title: calibre ${VERSION}
+  sponsor:
+  - name: calibre
+    url: https://calibre-ebook.com/donate
+  - name: calibre (GitHub Sponsors)
+    url: https://github.com/sponsors/kovidgoyal
+  - name: calibre (Patreon)
+    url: https://www.patreon.com/kovidgoyal
 
 release:
   branch: master
