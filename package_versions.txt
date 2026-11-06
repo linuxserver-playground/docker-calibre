@@ -572,6 +572,7 @@ gpg-wks-client                                                                2.
 gpgconf                                                                       2.4.8-4ubuntu3.1                       deb                              
 gpgsm                                                                         2.4.8-4ubuntu3.1                       deb                              
 gpgv                                                                          2.4.8-4ubuntu3.1                       deb                              
+gradle-wrapper                                                                UNKNOWN                                java-archive                     
 grep                                                                          3.12-1                                 deb                              
 groff-base                                                                    1.23.0-10                              deb                              
 gsettings-desktop-schemas                                                     50.0-1ubuntu2                          deb                              
@@ -1162,7 +1163,7 @@ pyjwt                                                                         2.
 pylibsrtp                                                                     1.0.0                                  python                           
 pyopenssl                                                                     26.4.0                                 python                           
 pyparsing                                                                     3.3.2                                  python                           
-python                                                                        3.14.8                                 binary                           
+python                                                                        3.14.10                                binary                           
 python-apt                                                                    3.1.0+ubuntu1.1                        python                           
 python-apt-common                                                             3.1.0ubuntu1.1                         deb                              
 python-dotenv                                                                 1.2.4                                  python                           
